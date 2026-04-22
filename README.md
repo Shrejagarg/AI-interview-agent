@@ -1,11 +1,11 @@
 # AI Interview Agent
 
-## 🚀 Overview
+## Overview
 AI Interview Agent is a Python-based adaptive system that conducts mock interviews, evaluates candidate responses, asks follow-up questions, and generates a final performance report.
 
 ---
 
-## 🧠 Features
+## Features
 - Conducts interview with up to 5 questions
 - Evaluates answers on:
   - Relevance
@@ -22,7 +22,7 @@ AI Interview Agent is a Python-based adaptive system that conducts mock intervie
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python
 - Rule-based evaluation logic
 - VS Code
