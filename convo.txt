@@ -1,0 +1,134 @@
+Welcome to the AI Marketing Interview Agent
+
+------------------------------------------------------------
+Question:
+What is digital marketing, and why is it important for brands today?
+------------------------------------------------------------
+Your answer: Digital marketing is important to ummm to u know expand business presence through uhh social media n all
+
+Evaluation Summary:
+Relevance: 2/10
+Clarity: 1/10
+Creativity: 0/10
+Communication: 2/10
+Overall Score: 5/10
+Strengths:
+- tries to mention social media
+Weaknesses:
+- vague language
+- lack of specific examples
+
+Follow-up Question:
+Can you give me a concrete example of how digital marketing has helped a brand expand its presence?
+Your follow-up answer: yes, brands like zomato, swiggy keeps on posting updates, offers, deals etc that is you know a key part of marketing. People nowadays are more active on instagram n all, they are also effective in relatable content like notifications n all
+
+------------------------------------------------------------
+Question:
+How would you promote a new perfume brand on Instagram?
+------------------------------------------------------------
+Your answer: we can promote it like the brand fog did, It used a tagline that got famous
+
+Evaluation Summary:
+Relevance: 2/10
+Clarity: 3/10
+Creativity: 1/10
+Communication: 4/10
+Overall Score: 2/10
+Strengths:
+- The candidate mentions a well-known brand example
+Weaknesses:
+- Lack of originality and unclear strategy
+
+Follow-up Question:
+Can you elaborate on what specific strategies the 'Fog' brand used to make their tagline famous? How would you adapt those strategies for our new perfume brand?
+Your follow-up answer: umm like "kya chal rha ha? fog hi chal rha hai..." i am not sure about strategies
+
+------------------------------------------------------------
+Question:
+What is the difference between branding and advertising?
+------------------------------------------------------------
+Your answer:  branding is like promoting your brand using specific logos, colour palette etc while advertising refers to promoting some deals/offers
+
+Evaluation Summary:
+Relevance: 4/10
+Clarity: 6/10
+Creativity: 3/10
+Communication: 5/10
+Overall Score: 4/10
+Strengths:
+- tries to differentiate between branding and advertising
+Weaknesses:
+- lacks depth in explanation
+- mixes up concepts
+
+Follow-up Question:
+Can you provide more specific examples of how branding and advertising differ? For instance, what kind of logos or color palettes are used for branding?
+Your follow-up answer: i dont know
+
+------------------------------------------------------------
+Question:
+Which metrics would you track to judge whether a social media campaign is successful?
+------------------------------------------------------------
+Your answer: likes, views, comments
+
+Evaluation Summary:
+Relevance: 6/10
+Clarity: 7/10
+Creativity: 4/10
+Communication: 8/10
+Overall Score: 6/10
+Strengths:
+- The candidate mentions three key metrics that are commonly tracked in social media campaigns: likes, views, and comments. This shows a basic understanding of what metrics to track.
+Weaknesses:
+- The answer is quite brief and lacks specific examples or context. It's unclear how the candidate would use these metrics to measure campaign success.
+
+Follow-up Question:
+Can you provide more details on how you would analyze these metrics to determine whether a social media campaign was successful? For example, what kind of increase in likes or comments would indicate a successful campaign?
+Your follow-up answer: idk
+
+------------------------------------------------------------
+Question:
+If a reel gets low engagement, how would you analyze the problem and improve the next one?
+------------------------------------------------------------
+Your answer: idk
+
+Evaluation Summary:
+Relevance: 2/10
+Clarity: 1/10
+Creativity: 0/10
+Communication: 1/10
+Overall Score: 4/10
+Strengths:
+- tries to answer the question
+Weaknesses:
+- vague and unprofessional response
+
+Follow-up Question:
+Can you provide more specific examples of how you would analyze a low-engagement reel and improve the next one?
+Your follow-up answer: less likes, comments 
+
+============================================================
+📊 FINAL INTERVIEW REPORT
+============================================================
+
+Average Score : 4.2/10
+Verdict       : Needs Improvement
+
+Top Strengths:
+- tries to mention social media
+- The candidate mentions a well-known brand example
+- tries to differentiate between branding and advertising
+- The candidate mentions three key metrics that are commonly tracked in social media campaigns: likes, views, and comments. This shows a basic understanding of what metrics to track.
+- tries to answer the question
+
+Areas to Improve:
+- lack of specific examples
+- vague language
+- vague and unprofessional response
+- mixes up concepts
+- lacks depth in explanation
+- Lack of originality and unclear strategy
+- The answer is quite brief and lacks specific examples or context. It's unclear how the candidate would use these metrics to measure campaign success.
+
+Recommendation:
+Work on fundamentals, structured answers, and real-world examples.
